@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @humbertoalcantaraluna
-- 👀 I’m interested in data science and create amazing results by analyzing data
+- 👀 I’m interested in data science and apply my knowledge by creating projects
 - 🌱 I’m currently learning Python, Github and SQL
 - 💞️ I’m looking to collaborate on Ecommerce and Supply Chain Projects
 - 📫 How to reach me www.linkedin.com/in/humbertoalcantara92
